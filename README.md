@@ -84,11 +84,7 @@ Last but not least, my projects always provide me with a platform to amplify my 
 
 Now, let’s keep this as clear as possible, shall we? The entire content of this repository is closely related to a **hub** in the form of a **website**: 
 
-- [pythoMazov](https://pythomazov.vercel.app)
-
-  | :warning: WARNING          |
-  |:---------------------------|
-  | Link available in some days!      |
+- [pythoMazov](https://pythomazov.reflex.run)
 
 This little application built with Python will **grant you access to every section in a readable, clear, and simple way**; the website exists only due to a matter of accessibility, as I find it way easier to navigate for the vast majority of human beings. If you are curious about the website itself (a **little star would be more than appreciated, stargazers!**), here you'll find the [link to its repository](https://github.com/JuditKaramazov/pythoMazov).
 
@@ -185,7 +181,7 @@ Beyond you’ll find the references leading you to the **different sections of t
     <img src="./images/pixel-weapon-rack.png" width="130" alt="Visual asset of a pixel-art weapon rack.">
   </p>
 
-  **Work on real projects**. **Collaborate and seek feedback**. Since that's an essential step leading to improvement, [pythoMazov](https://pythomazov.vercel.app/challenges) provides you with a **curated list of platforms offering a variety of coding challenges that simulate real-world problems**, such as `Codewars` or `exercism`. Given the wide amount of similar websites:
+  **Work on real projects**. **Collaborate and seek feedback**. Since that's an essential step leading to improvement, [pythoMazov](https://pythomazov.reflex.run/challenges) provides you with a **curated list of platforms offering a variety of coding challenges that simulate real-world problems**, such as `Codewars` or `exercism`. Given the wide amount of similar websites:
   
   1. You'll find some of them under a section called `All languages`.
 
