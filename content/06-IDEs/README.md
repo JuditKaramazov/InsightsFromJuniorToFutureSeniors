@@ -349,7 +349,7 @@ TL;DR - Just **go download VSCode**, guys. As someone who gave several IDEs a tr
  <p align="center">
   <img src="./images/logos/PyCharm.png" width="100px" alt="Original PyCharm logo.">
   <br>
-  <i>PyCharm quite rules</i>
+  <i>PyCharm has a charm</i>
 </p> 
 
 _Spyder, Jupyter, VSCode_... Although nowadays many programmers opt for Python to **build software applications with a concise and readable code base**, not every integrated development environment feels the same. [JetBrains](https://www.jetbrains.com/), however, knows a couple of things about refined IDEs and "building software where you can enjoy building yours", and [PyCharm](https://www.jetbrains.com/pycharm/) is definitely no exception.
