@@ -72,7 +72,7 @@ I could now conclude this block with an enthusiastic “Python made me better”
 
 1. “Once a teacher, always a teacher”, indeed. As someone who struggled to find proper material, documentation, books, or even valuable websites during her university years, I feel responsible for **sharing with anyone interested in learning as many tools and platforms as possible**. These days, learning has become not only a need but a reasonable reality; if you have access to an internet connection, you are good to go. It’s not always so simple to find the materials appropriately accommodated to our personal way of learning, though. Diversity is key. While you will find more complete tutorials, videos, and courses out there, I thought it could be interesting to gather some of them in the same place.
 
-2. My partner in crime, [@AuNedelec](https://github.com/AuNedelec), showed some predisposition (as well as a genuine interest) towards the programming world - more specifically, NLP, also known as [Natural-language programming](https://en.wikipedia.org/wiki/Natural-language_programming). Although I bet my companion will find great materials out there, her fascination with this sector genuinely **encouraged me to prepare a bunch of documentation she could find helpful during her journey**. I wish that’s the case.
+2. My partner in crime, [@AuNedelec](https://github.com/AuNedelec), showed some predisposition (as well as a genuine interest) towards the programming world - more specifically, NLP, also known as [Natural language processing](https://en.wikipedia.org/wiki/Natural_language_processing). Although I bet my companion will find great materials out there, her fascination with this sector genuinely **encouraged me to prepare a bunch of documentation she could find helpful during her journey**. I wish that’s the case.
 
 Last but not least, my projects always provide me with a platform to amplify my words and help them reach other people who, just like me back in the day, might be struggling with both this area of knowledge and their own fears and invisible barriers. For all of you, just as I said before: **you can do this**.
 
@@ -82,7 +82,13 @@ Last but not least, my projects always provide me with a platform to amplify my 
 
 Now, let’s keep this as clear as possible, shall we? The entire content of this repository is closely related to a **hub** in the form of a **website**: 
 
-- [pythoMazov](https://pythomazov.reflex.run)
+
+<p align="center">
+  <img src="./images/pythoMazov.png" alt="Console Ninja original logo." width=40 height=40 alt="Original pythoMazov logo.">
+  <br>
+  <a href="https://www.pythomazov.tech/">pythoMazov</a>
+</p> 
+
 
 This little application built with Python will **grant you access to every section in a readable, clear, and simple way**; the website exists only due to a matter of accessibility, as I find it way easier to navigate for the vast majority of human beings. If you are curious about the website itself (a **little star would be more than appreciated, stargazers!**), here you'll find the [link to its repository](https://github.com/JuditKaramazov/pythoMazov).
 
@@ -179,7 +185,7 @@ Beyond you’ll find the references leading you to the **different sections of t
     <img src="./images/pixel-weapon-rack.png" width="130" alt="Visual asset of a pixel-art weapon rack.">
   </p>
 
-  **Work on real projects**. **Collaborate and seek feedback**. Since that's an essential step leading to improvement, [pythoMazov](https://pythomazov.reflex.run/challenges) provides you with a **curated list of platforms offering a variety of coding challenges that simulate real-world problems**, such as `Codewars` or `exercism`. Given the wide amount of similar websites:
+  **Work on real projects**. **Collaborate and seek feedback**. Since that's an essential step leading to improvement, [pythoMazov](https://www.pythomazov.tech/challenges) provides you with a **curated list of platforms offering a variety of coding challenges that simulate real-world problems**, such as `Codewars` or `exercism`. Given the wide amount of similar websites:
   
   1. You'll find some of them under a section called `All languages`.
 
