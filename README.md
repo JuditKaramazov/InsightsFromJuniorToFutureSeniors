@@ -84,7 +84,7 @@ Now, let’s keep this as clear as possible, shall we? The entire content of thi
 
 
 <p align="center">
-  <img src="./images/pythoMazov.png" alt="Console Ninja original logo." width=40 height=40 alt="Original pythoMazov logo.">
+  <img src="./images/pythoMazov.png" alt="Console Ninja original logo." width=80 height=80 alt="Original pythoMazov logo.">
   <br>
   <a href="https://www.pythomazov.tech/">pythoMazov</a>
 </p> 
