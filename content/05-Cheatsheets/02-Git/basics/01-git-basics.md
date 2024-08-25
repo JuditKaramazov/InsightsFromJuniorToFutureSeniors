@@ -170,7 +170,7 @@ Temporarily store changes to switch branches or work on other tasks:
 
 **[⬆ Back to Index](#table-of-contents)**
 
-**[🔙 Back to Main Index](../../README.md)**
+**[🔙 Back to Cheatsheets Index](../../README.md)**
 
 ---
 

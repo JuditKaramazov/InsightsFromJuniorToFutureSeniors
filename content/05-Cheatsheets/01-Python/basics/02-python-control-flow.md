@@ -437,7 +437,7 @@ The `sys.exit()` function allows exiting Python.
 
 **[⬆ Back to Index](#table-of-contents)**
 
-**[🔙 Back to Main Index](../../README.md)**
+**[🔙 Back to Cheatsheets Index](../../README.md)**
 
 ---
 

@@ -259,7 +259,7 @@ In the end, these are pure conventions. Independently of the ones you'll finally
 
 **[⬆ Back to Index](#table-of-contents)**
 
-**[🔙 Back to Main Index](../../README.md)**
+**[🔙 Back to Cheatsheets Index](../../README.md)**
 
 ---
 
