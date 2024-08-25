@@ -51,7 +51,7 @@ _Module 2: Variables and assignements:_ --> 🚧 **Under construction!** 🚧
 
 ---
 
-**[🔙 Back to Main Index](../../README.md)**
+**[🔙 Back to Main Index](/README.md)**
 
 ---
 

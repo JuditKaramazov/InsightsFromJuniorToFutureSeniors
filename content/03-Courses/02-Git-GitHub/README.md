@@ -82,7 +82,7 @@ Table of Contents
 
 ---
 
-**[🔙 Back to Main Index](../../README.md)**
+**[🔙 Back to Main Index](/README.md)**
 
 ---
 

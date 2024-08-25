@@ -1533,7 +1533,7 @@ Here's the information presented in a table format:
 
 **[⬆ Back to Index](#table-of-contents)**
 
-**[🔙 Back to Main Index](../../README.md)**
+**[🔙 Back to Main Index](/README.md)**
 
 ---
 

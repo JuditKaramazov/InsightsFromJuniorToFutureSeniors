@@ -442,7 +442,7 @@ Just in case you're wondering, yes: **you can do it**. So please, close this tab
 
 **[⬆ Back to Index](#table-of-contents)**
 
-**[🔙 Back to Main Index](../../README.md)**
+**[🔙 Back to Main Index](/README.md)**
 
 ---
 

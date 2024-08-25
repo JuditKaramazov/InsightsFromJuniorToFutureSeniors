@@ -668,7 +668,7 @@ As I found out myself, dear reader, I know nothing about IDEs yet - that's proba
 
 **[⬆ Back to Index](#table-of-contents)**
 
-**[🔙 Back to Main Index](../../README.md)**
+**[🔙 Back to Main Index](/README.md)**
 
 ---
 

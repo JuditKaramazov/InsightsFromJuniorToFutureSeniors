@@ -165,7 +165,7 @@ Until this hypothetical future arrives, let's have a look at the many free tools
 
 **[⬆ Back to Index](#table-of-contents)**
 
-**[🔙 Back to Main Index](../../README.md)**
+**[🔙 Back to Main Index](/README.md)**
 
 ---
 

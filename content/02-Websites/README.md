@@ -426,7 +426,7 @@ A **collection of resources** for developers, **categorized and crowdsourced**. 
 
 **[⬆ Back to Index](#table-of-contents)**
 
-**[🔙 Back to Main Index](../../README.md)**
+**[🔙 Back to Main Index](/README.md)**
 
 ---
 
