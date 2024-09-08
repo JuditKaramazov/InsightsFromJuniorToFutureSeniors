@@ -34,6 +34,11 @@ Table of Contents
   - 2.6. Git Best Practices and Advanced Topics
   - 2.7. Conclusion and Next Steps
 
+3. [JavaScripted](https://javascript-ed.vercel.app) 🎉✨🆕✨🎉
+  - 3.1. Notes on several JavaScript topics
+  - 3.2. Code snippets
+  - 3.3. Interactive templates
+
 ---
 
 **[🔙 Back to Main Index](/README.md)**
