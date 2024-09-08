@@ -131,7 +131,10 @@ Beyond you’ll find the references leading you to the **different sections of t
     <img src="./images/pixel-retro-computer.png" width="120" alt="Visual asset of a pixel-art retro computer.">
   </p>
   
-  Hopefully, we'll **eventually follow a similar approach with languages such as JavaScript**, so please be patient. Although there's nothing much for me to share, I'd want to take the proper time to prepare influential, accessible, or just insightful materials allowing you to get started.
+  Hopefully, we'll **eventually follow a similar approach with languages such as ~~JavaScript~~**, so please be patient. Although there's nothing much for me to share, I'd want to take the proper time to prepare influential, accessible, or just insightful materials allowing you to get started.
+
+  > [!NOTE]
+  > 📢 **HUGE ANNOUNCEMENT!** 📢 [JavaScripted](https://javascript-ed.vercel.app), a collection of **modern JavaScript notes, templates and code snippets** is 🎉✨🆕✨🎉 **out** 🎉✨🆕✨🎉! Welcome to our [courses section!](./content/03-Courses/README.md)
 
   ---
 
