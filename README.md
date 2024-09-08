@@ -125,16 +125,18 @@ Beyond you’ll find the references leading you to the **different sections of t
 
 ## 3. [Courses<a id='courses'>](./content/03-Courses/README.md)
 
+                        ⬇️ 🎉✨🆕✨🎉 ⬇️
+
   This is probably one of the most special chapters you'll find here, at least from a personal point of view. Starting with an [Introduction to Python](./content/03-Courses/01-Python/), I'll share a **customized course** explaining the **basics of the language**; once the content is finished and satisfactory enough, we'll move on and go through **intermediate and advanced levels**. You'll even find a couple of things regarding **Git, GitHub**... and more!
 
   <p align="center">
     <img src="./images/pixel-retro-computer.png" width="120" alt="Visual asset of a pixel-art retro computer.">
   </p>
   
-  Hopefully, we'll **eventually follow a similar approach with languages such as ~~JavaScript~~**, so please be patient. Although there's nothing much for me to share, I'd want to take the proper time to prepare influential, accessible, or just insightful materials allowing you to get started.
+  Hopefully, we'll **eventually follow a similar approach with languages such as ~~JavaScript~~** (_check the note below for further information!_), so please be patient. Although there's nothing much for me to share, I'd want to take the proper time to prepare influential, accessible, or just insightful materials allowing you to get started.
 
   > [!NOTE]
-  > 📢 **HUGE ANNOUNCEMENT!** 📢 [JavaScripted](https://javascript-ed.vercel.app), a collection of **modern JavaScript notes, templates and code snippets** is 🎉✨🆕✨🎉 **out** 🎉✨🆕✨🎉! Welcome to our [courses section!](./content/03-Courses/README.md)
+  > 📢 **HUGE ANNOUNCEMENT!** 📢  My collection of **modern JavaScript notes, templates and code snippets**, [JavaScripted](https://javascript-ed.vercel.app), is **out**! Welcome to our [courses section!](./content/03-Courses/README.md)
 
   ---
 
