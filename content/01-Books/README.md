@@ -1207,6 +1207,7 @@ Here's the information presented in a table format:
 | [Essential TypeScript](https://www.programming-books.io/essential/typescript/)                   | Krzysztof Kowalczyk, StackOverflow Contributors | HTML      |
 | [Learn TypeScript in Y Minutes](https://learnxinyminutes.com/docs/typescript/)                   | -                                          | HTML      |
 | [Tackling TypeScript: Upgrading from JavaScript](https://exploringjs.com/tackling-ts/toc.html)   | Axel Rauschmayer                           | HTML   |
+| [The Concise TypeScript Book](https://gibbok.github.io/typescript-book/it-it/)                   | Simone Poggiali                            | HTML      |
 | [TypeScript Accelerated](https://accelerated.amimetic.co.uk)                                       | James Porter                               | HTML      |
 | [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/)                                     | [basarat](https://github.com/basarat/typescript-book)                                          | HTML      |
 | [TypeScript for C# Programmers](http://www.infoq.com/minibooks/typescript-c-sharp-programmers)     | Steve Fenton                                          | HTML      |
